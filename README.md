@@ -93,6 +93,14 @@ http://localhost:5173
 6. View execution logs
 
 ---
+## Scalability
+
+The system is designed to be extensible:
+- New node types can be added easily
+- Execution logic can support conditional branching
+- Backend integration can enable persistence and multi-user workflows
+
+---
 
 ## Future Improvements
 
